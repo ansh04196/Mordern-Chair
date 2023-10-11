@@ -1,7 +1,9 @@
-# Mordern-Chair
+# Modern-Chair
  
 
 The Modern Chair Website is your gateway to a world of contemporary design, where style meets comfort in the form of chairs that not only serve as functional seating but also as works of art. Our website is dedicated to offering an extensive collection of chairs that exemplify modern aesthetics, innovation, and craftsmanship.
+
+The Website Is Live At : https://ansh04196.github.io/Mordern-Chair/
 
 Key Features:
 
